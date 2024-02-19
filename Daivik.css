@@ -1,0 +1,70 @@
+body {
+    background-image: url("https://www.pixel4k.com/wp-content/uploads/2020/10/wavy-lines-abstract-4k_1602439015-2048x1152.jpg.webp");
+}
+
+
+
+/* Custom styles for the navigation bar */
+.navbar {
+  background-color: #000000; /* Change background color */
+}
+
+.navbar-brand {
+  color: #000000; /* Change brand text color */
+}
+
+.nav-link {
+  color: #000000; /* Change link text color */
+}
+
+.nav-link.active {
+  font-weight: bold; /* Bold active link */
+}
+
+
+
+.card-title {
+  color: #a20000; /* Change card title color */
+}
+
+.card-text {
+  color: #000000; /* Change card text color */
+}
+
+
+
+
+/* Custom styles for the card containers */
+.card {
+   
+    margin: 2px auto; /* Center the cards and add some space around them */
+    padding: 15px; /* Add padding inside the cards */
+    border: 1px solid #000000; /* Add a border to the cards */
+    border-radius: 10px; /* Add border radius to the cards */
+  }
+  
+  /* Custom styles for the list items */
+  .list-group-item {
+    background-color: #5fadfb; /* Change background color of list items */
+  }
+  
+  /* Custom styles for form inputs and labels */
+  .form-check-input {
+    margin-right: 5px; /* Add some space between the input and label */
+  }
+  
+  .form-check-label {
+    margin-left: 5px; /* Add some space between the input and label */
+  }
+  
+  /* Custom styles for the select menu */
+  .form-select {
+    margin-top: 10px; /* Add some space above the select menu */
+  }
+  
+  /* Custom styles for the button */
+  .btn-primary {
+    margin-top: 20px; /* Add some space above the button */
+  }
+  
+
